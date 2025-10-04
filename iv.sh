@@ -23,7 +23,7 @@ NODES=(
     "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite"
 )
 
-WORKFLOWS=
+WORKFLOWS=(
 )
 
 INPUT=(
