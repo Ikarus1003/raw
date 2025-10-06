@@ -16,11 +16,6 @@ PIP_PACKAGES=(
 )
 
 NODES=(
-    "https://github.com/Lightricks/ComfyUI-LTXVideo"
-    "https://github.com/kijai/ComfyUI-KJNodes"
-    "https://github.com/aria1th/ComfyUI-LogicUtils"
-    "https://github.com/Mattabyte/ComfyUI-LTXVideo-Registry_Mattabyte"
-    "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite"
 )
 
 WORKFLOWS=(
@@ -34,24 +29,18 @@ CHECKPOINT_MODELS=(
 )
 
 CLIP_MODELS=(
-    "https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/umt5-xxl-enc-fp8_e4m3fn.safetensors"
 )
 
 UNET_MODELS=(
 )
 
 DIFFUSION_MODELS=(
-    "https://huggingface.co/Kijai/WanVideo_comfy_fp8_scaled/resolve/main/I2V/Wan2_2-I2V-A14B-LOW_fp8_e4m3fn_scaled_KJ.safetensors"
-    "https://huggingface.co/Kijai/WanVideo_comfy_fp8_scaled/resolve/main/I2V/Wan2_2-I2V-A14B-HIGH_fp8_e4m3fn_scaled_KJ.safetensors"
 )
 
 LORA_MODELS=(
-    "https://huggingface.co/lightx2v/Wan2.2-Lightning/resolve/main/Wan2.2-I2V-A14B-4steps-lora-rank64-Seko-V1/high_noise_model.safetensors"
-    "https://huggingface.co/lightx2v/Wan2.2-Lightning/resolve/main/Wan2.2-I2V-A14B-4steps-lora-rank64-Seko-V1/low_noise_model.safetensors"
 )
 
 VAE_MODELS=(
-    "https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Wan2_1_VAE_bf16.safetensors"
 )
 
 ESRGAN_MODELS=(
