@@ -16,6 +16,14 @@ PIP_PACKAGES=(
 )
 
 NODES=(
+"https://github.com/evanspearman/ComfyMath"
+"https://github.com/kijai/ComfyUI-GIMM-VFI"
+"https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite"
+"https://github.com/kijai/ComfyUI-KJNodes"
+"https://github.com/rgthree/rgthree-comfy"
+"https://github.com/crystian/ComfyUI-Crystools"
+"https://github.com/ltdrdata/ComfyUI-Manager"
+"https://github.com/cubiq/ComfyUI_essentials"
 )
 
 WORKFLOWS=(
